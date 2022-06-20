@@ -1,6 +1,6 @@
-Golf Cart Golf
+###Golf Cart Golf
 
-Project Description
+##Project Description
 
 	The application will be able to create a 2D game that uses keyboard and mouse input.
 	The game will be about hitting a ball into a hole on a map, similar to golf.
@@ -11,7 +11,7 @@ Project Description
 	to make the image of the randomly generated maps. The challenges faced when creating
 	the game were using trigonometry, random map generation, and image rotation.
 	
-Installation and Running
+##Installation and Running
 
 	1. Open the zip file of the project, inside there should be a folder called 
 	"HarryHe_ISU". Move the folder outside of the zip package.
@@ -63,11 +63,11 @@ Installation and Running
 		
 		java Main
 
-	Troubleshooting
+#Troubleshooting
 	If you see "javac is not recognized as an internal or external command", here are
 	some steps to solve your issue
 	
-	Windows
+Windows
 	1. Locate where the JDK is installed, for guidance it should look something like
 	"C:\Program Files\Java\jdk-18.0.1.1".
 	
@@ -99,7 +99,7 @@ Installation and Running
 	 
 	7. Save your changes by pressing "OK".
 
-	Mac
+Mac
 	1. Locate where the JDK is installed, for guidance it should look something like 
 	"/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home"
 	
@@ -133,7 +133,7 @@ Installation and Running
 		echo $PATH
 		
 
-	Using an IDE, Eclipse
+#Using an IDE, Eclipse
 
 	If you do not have Eclipse or another IDE that can run Java, follow steps 4 - 5,
 	otherwise you can skip to step 6.
@@ -161,14 +161,14 @@ Installation and Running
 	11. From there run Main.java as a java application or you can select the entire
 	project and run it as a java application.
 	
-Using the Project
+##Using the Project
 
 	The project will accept mouse and keyboard input. To play the game, refer to the
 	instructions screen to learn about keyboard controls and the goal of the game.
 	To control the application use the mouse and cursor as input, pressing the
 	buttons to navigate the game.
 	
-Credits
+##Credits
 
 	Author: Harry He
 	Advisor and Tester: Mr. Chow
@@ -185,7 +185,7 @@ Credits
 	up with this idea when passing by his local golf course and wondered if he could
 	play golf with a golf cart.
 	
-License
+##License
 MIT License
 
 Copyright (c) 2022 Harry He
