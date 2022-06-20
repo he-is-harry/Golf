@@ -1,5 +1,7 @@
 # Golf Cart Golf
 
+Author: Harry He
+
 ## Project Description
 
 	The application will be able to create a 2D game that uses keyboard and mouse input.
