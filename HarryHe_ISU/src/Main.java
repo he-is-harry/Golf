@@ -950,8 +950,8 @@ public class Main extends JPanel implements Runnable, MouseListener, KeyListener
 			if((player.x < 100 || player.x >= 2000 * magnificationScale - 100 || 
 					player.y < 100 || player.y >= 2000 * magnificationScale - 100) && player.collisionDelay == 0) {
 				angle = player.angle + 90;
-				player.collideVelX = Math.cos(Math.toRadians(angle)) * Math.abs(player.speed);
-				player.collideVelY = Math.sin(Math.toRadians(angle)) * Math.abs(player.speed);
+				player.collideVelX = Math.cos(Math.toRadians(angle)) * player.speed;
+				player.collideVelY = Math.sin(Math.toRadians(angle)) * player.speed;
 				player.speed *= 0.25;
 				player.startDelay();
 			}
