@@ -4,6 +4,9 @@ Author: Harry He
 
 ## Project Description
 
+https://user-images.githubusercontent.com/69978107/181865313-9f09356b-cb04-44ef-94ee-e53cb0906930.mp4
+A video demonstration of how the game is played.
+
 	The application will be able to create a 2D game that uses keyboard and mouse input.
 	The game will be about hitting a ball into a hole on a map, similar to golf.
 	All of the technologies used in the game are apart of the Java Standard Library, and
